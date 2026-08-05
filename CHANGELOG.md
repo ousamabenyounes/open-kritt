@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/Kritt-ai/open-kritt/compare/v1.3.0...v1.4.0) (2026-08-05)
+
+
+### Features
+
+* **frontend:** add community star support ([#58](https://github.com/Kritt-ai/open-kritt/issues/58)) ([3597248](https://github.com/Kritt-ai/open-kritt/commit/3597248077c906ecbb8a0d2c72dcb2673d1ad9a9))
+
 ## [1.3.0](https://github.com/Kritt-ai/open-kritt/compare/v1.2.0...v1.3.0) (2026-08-04)
 
 
